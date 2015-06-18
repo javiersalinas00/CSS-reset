@@ -1,12 +1,12 @@
 # CSS-reset
 
-My own reset stylesheet based in Eric Meyer's reset
+<p>My own reset stylesheet based in Eric Meyer's reset
 (http://meyerweb.com/eric/tools/css/reset/) and HTML5 doctor Reset
-Stylesheet (http://html5doctor.com/html-5-reset-stylesheet/)
+Stylesheet (http://html5doctor.com/html-5-reset-stylesheet/)</p>
 
-Author:	javier Salinas
-Version:	1.0
-Last change:	17/06/2015 []
-License:    none (public domain)
-URL:	http://www.github.com/javiersalinas00 
+<p>Author:	javier Salinas</p>
+<p>Version:	1.0</p>
+<p>Last change:	17/06/2015 []</p>
+<p>License:    none (public domain)</p>
+<p>URL:	http://www.github.com/javiersalinas00 </p>
 -------------------------------------------------
