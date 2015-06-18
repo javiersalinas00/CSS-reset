@@ -1,0 +1,74 @@
+/*------------------------------------------------------------------
+CSS reset
+
+My own reset stylesheet based in Eric Meyer's reset
+(http://meyerweb.com/eric/tools/css/reset/) and HTML5 doctor Reset
+Stylesheet (http://html5doctor.com/html-5-reset-stylesheet/)
+
+Author:	javier Salinas
+Version:	1.0
+Last change:	17/06/2015 []
+License:    none (public domain)
+URL:	http://www.github.com/javiersalinas00 
+-------------------------------------------------------------------*/
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 1;
+}
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+main, menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	border: 0;
+	margin: 0;
+	padding: 0;
+	vertical-align: baseline;
+}
+ *, *:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+ol, ul {
+	list-style: none;
+	margin:0;
+	padding:0;
+}
+ul li, ul ul li, ul ul ul li, ol li, ol ol li, ol ol ol li, ul ol ol li, ul ul ol li, ol ul ul li, ol ol ul li {
+    list-style: none;
+	margin:0;
+	padding:0;
+	display:table;
+}
+ol ol, ol ol ol, ul ul, ul ul ul, ol ul, ol ul ul, ol ol ul, ul ol, ul ol ol, ul ul ol {
+    list-style: none;
+	margin:0;
+	padding:0;
+	display:table;
+}
+nav ul, nav ol {
+    list-style-type:none;
+}
+a {
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+a:active,
+a:hover {
+  outline: 0;
+}
+
