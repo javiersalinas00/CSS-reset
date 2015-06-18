@@ -1,5 +1,4 @@
 # CSS-reset
-<h1>CSS reset</h1>
 
 My own reset stylesheet based in Eric Meyer's reset
 (http://meyerweb.com/eric/tools/css/reset/) and HTML5 doctor Reset
