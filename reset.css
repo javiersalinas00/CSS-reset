@@ -49,7 +49,7 @@ time, mark, audio, video {
     box-shadow: none;
 }
 h1, h2, h3, h4, h5, h6 {
-    margin-bottom:10px;
+    margin:0;
 }
 
 h1 {
